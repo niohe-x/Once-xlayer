@@ -4,7 +4,7 @@ One‑shot ticket primitive on X Layer / TapeOut.
 One circuit on one processor.
 The ticket arms on ISSUE, fires once on USE, remembers consumption and stays dead until re‑issue.
 
-- Processor: `0xcbc6882ba62a314eeb8a9710a94fd61a5b1a7918`
+- Processor: `0xcbC6882ba62A314EEb8a9710A94Fd61a5B1a7918`
 - Wallet: `0xe13a4ca61a0f3f72709668be265856180f1469c4`
 - Circuit tx: https://www.oklink.com/xlayer/tx/0x4a5b9f3b60c325128ae48cee2ed320caa7402d7e8e2c90b6490d0931c1844d61
 
